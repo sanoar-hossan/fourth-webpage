@@ -1,0 +1,72 @@
+*{margin0;padding0;}
+
+.signup-section{
+	background: #0078b2; /* Old browsers */
+background: -moz-linear-gradient(45deg, #0078b2 0%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, #0078b2 0%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, #0078b2 0%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0078b2', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+height:100vh;
+}
+.signup-box{
+	width: 400px;
+    margin: 0 auto;
+	padding-top:30px;
+	text-align:center;
+}
+.signup-box img{
+	
+}
+.signup-box h1{
+	color:#FFFFFF;
+	font-size:22px;
+}
+.signup-form{
+	background:#EEEEEE;
+	text-align:left;
+   padding:10px;
+	
+}
+.signup-form form{
+	background:#EEEEEE;
+		padding:15px;
+		text-align:left;
+		box-shadow:0 0 0 0 color:red;
+}
+.signup-form label{
+	color:#333;
+	font-size:18px;
+}
+.signup-form input{
+	width:100%;
+	padding:6px 10px;
+	box-sizing:border-box;
+	color:#333;
+	margin-bottom:10px;
+	border:1px solid #BFBFBF;
+	font-size:19px;
+}
+.signup-form input[type="submit"]{
+background-color:#226196;
+	color:#fff;
+	margin-top:10px;
+	cursor:pointer;
+}
+
+.signup-form form p{
+	text-align:center;
+	color:#555;font-weight:300;
+	margin-bottom:15px;
+	margin-top:15px;
+}
+p{
+	color:#eee;
+.signup-form form a{
+	text
+}
+
+}
+audio{
+	width:500px;
+	background:red;
+}
